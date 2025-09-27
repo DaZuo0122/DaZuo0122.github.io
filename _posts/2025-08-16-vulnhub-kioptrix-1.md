@@ -23,7 +23,7 @@ Then we need to make sure nothing causes conflicts, which may look like followin
 // Delete the line
 ethernet0.networkName = "Bridged"
 ```
-Now the image should be ready to go(Click "I copied" if Vmware prompt something when powered on).
+Now the image should be ready to go(Click "I Moved it" if Vmware prompt something when powered on).
 
 
 ## The Hack: Intelligence Gathering
@@ -399,3 +399,4 @@ And there we have it! We exploited Kioptrix 1 with a well-known vulnerability an
 TBH, this VM is pretty easy in terms of complexity since its main objective was to teach you the basics in tool usage and exploitation.
 
 There's still a long way to go.
+

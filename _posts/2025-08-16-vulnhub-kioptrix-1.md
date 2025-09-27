@@ -139,11 +139,12 @@ OS and Service detection performed. Please report any incorrect results at https
 ```
 
 Some key info we can refer from the result:
-	1. OpenSSH version is extremely old - may be vulnerable
+
+1. OpenSSH version is extremely old - may be vulnerable
 	
-	2. Apache version is old as well - worth to try
+2. Apache version is old as well - worth to try
 	
-	3. There's SMB service, which often considered vulnerable - worth to try
+3. There's SMB service, which often considered vulnerable - worth to try
 
 
 ## The Hack: Attack
@@ -396,4 +397,5 @@ And there we have it! We exploited Kioptrix 1 with a well-known vulnerability an
 
 ## Closing
 TBH, this VM is pretty easy in terms of complexity since its main objective was to teach you the basics in tool usage and exploitation.
+
 There's still a long way to go.

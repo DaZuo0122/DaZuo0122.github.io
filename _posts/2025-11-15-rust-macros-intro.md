@@ -1,5 +1,5 @@
 ---
-title: Understanding Rust Macros: From Declarative to Procedural
+title: Understanding Rust Macros - From Declarative to Procedural
 categories: [Programming]
 tags: [Rust]
 ---
@@ -367,6 +367,7 @@ The complexity we see in the expanded code is exactly why proc-macros are valuab
 
 ### This is not the End
 Understanding this expansion process and concepts like `PhantomData` gives you insight into how Rust's trait system and metaprogramming capabilities work together to create powerful, safe abstractions.
+
 
 
 But this is only the beginning.
